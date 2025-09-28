@@ -1,5 +1,6 @@
-lidar com multiplageometria
-nbr e ndvi
+lidar com multigeometria
+DONE nbr e ndvi
 extrair graficos e imagens pdf e tif 
 coor 34.092615,-118.532875
+normalizacao de curvas 
 
