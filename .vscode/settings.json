@@ -1,5 +1,8 @@
 {
     "jupyter.widgetScriptSources": ["jsdelivr.com", "unpkg.com"],
     "jupyter.allowUnauthorizedRemoteConnection": true,
-    "jupyter.enableExtendedKernelCompletions": true
+    "jupyter.enableExtendedKernelCompletions": true,
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": []
 }
