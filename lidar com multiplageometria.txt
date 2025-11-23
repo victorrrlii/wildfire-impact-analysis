@@ -1,7 +1,10 @@
 lidar com multigeometria
+padronizar doc str 
+
+
+
 DONE nbr e ndvi
 DONE extrair graficos e imagens pdf e tif 
-coor 34.092615,-118.532875
 DONE normalizacao de curvas 
 DONE bloco try execpt 
-consertar pdf
+DONE consertar pdf
