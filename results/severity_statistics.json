@@ -1,0 +1,28 @@
+{
+  "total_area_hectares": 69822.27889096018,
+  "Unburned": {
+    "hectares": 51543.32,
+    "acres": 127363.55,
+    "percentage": 73.82
+  },
+  "Low Severity": {
+    "hectares": 7908.65,
+    "acres": 19542.28,
+    "percentage": 11.33
+  },
+  "Moderate-Low": {
+    "hectares": 3834.3,
+    "acres": 9474.55,
+    "percentage": 5.49
+  },
+  "Moderate-High": {
+    "hectares": 3844.39,
+    "acres": 9499.49,
+    "percentage": 5.51
+  },
+  "High Severity": {
+    "hectares": 2691.62,
+    "acres": 6650.98,
+    "percentage": 3.85
+  }
+}

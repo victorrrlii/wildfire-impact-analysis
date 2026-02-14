@@ -1,0 +1,28 @@
+# Core Google Earth Engine packages
+earthengine-api>=0.1.384
+geemap>=0.32.0
+
+# Geospatial libraries
+gdal>=3.6.0
+
+# Scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data visualization
+matplotlib>=3.7.0
+plotly>=5.14.0
+
+# Interactive widgets
+ipywidgets>=8.0.0
+ipyleaflet>=0.17.0
+
+# Web requests
+requests>=2.31.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Image processing (for plotly exports)
+kaleido>=0.2.1
