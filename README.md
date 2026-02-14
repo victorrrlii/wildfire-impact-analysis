@@ -4,7 +4,7 @@
 
 An end-to-end data analytics project leveraging **geospatial data** and **satellite imagery** to quantify wildfire damage and track environmental recovery. This analysis of the 2025 Palisades Fire (Los Angeles, CA) demonstrates proficiency in **data acquisition, cleaning, transformation, statistical analysis, and interactive visualization** using Python and cloud computing platforms.
 
-> **Business Value**: This type of analysis supports disaster response planning, insurance risk assessment, environmental impact reporting, and resource allocation for recovery efforts.
+**Business Value**: This type of analysis supports disaster response planning, insurance risk assessment, environmental impact reporting, and resource allocation for recovery efforts.
 
 ## 📊 Key Data Analytics Skills Demonstrated
 
@@ -227,7 +227,7 @@ This project demonstrates:
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/wildfire-impact-analysis/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/victorrrlii/wildfire-impact-analysis/issues).
 
 ## 📜 License
 
